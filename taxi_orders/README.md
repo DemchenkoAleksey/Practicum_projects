@@ -20,6 +20,7 @@
 - Наилучшая модель Lasso c параметрами - 'model__alpha': 0.1, 'preprocessor__cat__onehot': OneHotEncoder(handle_unknown='ignore', sparse_output=False), 'preprocessor__num__scaler': StandardScaler();
 - Результат RMSE на временной кросс-валидационной выборке 25.37;
 - RMSE на тестовых данных: 42.3.
+- Полученная модель предсказывает количество заказов на 50% **лучше**, чем среднее.
 
 ## Анализ признаков
 
