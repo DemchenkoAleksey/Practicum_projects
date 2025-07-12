@@ -30,8 +30,7 @@
 Целевой признак:
 -    `Price` — цена (евро)
 
-![image](https://github.com/user-attachments/assets/dc2a23e7-5f2b-4e7a-99af-00b71a63b126)
-
+<img width="2002" height="373" alt="image" src="https://github.com/user-attachments/assets/f37a8b5b-ddd5-431e-a8fd-672fd7ba7874" />
 
 ## Результаты работы
 1. Загружены данные сервиса по продаже автомобилей с пробегом «Не бит, не крашен».
@@ -40,6 +39,6 @@
 4. Обноружены и исправлены аномальные значения в данных.
 5. Был проведен анализ Phik матрицы корреляций и определены силы связи целевого признака `price` со входными, используя шкалу Чеддока.
 6. Создали 4 модели с разными гиперпараметрами (`LinearRegressor`, `DecisionTreeRegressor`, `CatBoost` и `LightGBM`). Только модели градиентного бустинга соответсвовали показателю RMSE < 2500.
-![image](https://github.com/user-attachments/assets/1b5b5267-da4f-4359-aa27-d424e50475e3)
+<img width="793" height="175" alt="image" src="https://github.com/user-attachments/assets/c11c541c-f153-464f-b4e7-5ad1edb42e05" />
 7. Проведен анализ полученных результатов, основываясь на тестовой выборке. Лучшей моделью стала `LightGBM` c `RMSE = 1759.5 евро` на тестовой выборке.
 8. Был проведен анализ влияния входных признаков на предсказание модели, в ходе которого наиболее важными признаками являются - `registration_year`, `power`, `kilometer`, `model` и `brand`.
