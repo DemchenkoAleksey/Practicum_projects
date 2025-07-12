@@ -6,12 +6,10 @@
 - Контролировать добросовестность кассиров при продаже алкоголя.
 
 **Пример загруженных фотографий**
-![image](https://github.com/user-attachments/assets/0fc4b1e3-f2a0-4e8d-b449-063f39b05d2c)
-![image](https://github.com/user-attachments/assets/ae4931b2-5e16-4ef4-a481-eaad7c2991bc)
-![image](https://github.com/user-attachments/assets/f60c546e-5d2f-4d16-af95-20e9c2a73e3f)
-![image](https://github.com/user-attachments/assets/d4026edb-6db6-46bf-978c-ca1be587ef0d)
-![image](https://github.com/user-attachments/assets/023946f4-9a48-49cc-b956-7f0e454ac50f)
-![image](https://github.com/user-attachments/assets/fee363c0-c7a3-4e33-ac24-1aed922f6ac2)
+<img width="1342" height="477" alt="image" src="https://github.com/user-attachments/assets/51143bdd-fcc6-4b62-9882-9fe59793007d" />
+<img width="1346" height="475" alt="image" src="https://github.com/user-attachments/assets/98dcdd2a-2eda-4d31-bd6e-24de52d3275b" />
+<img width="1347" height="477" alt="image" src="https://github.com/user-attachments/assets/83552994-c5c1-4027-9198-11927c2ff5fc" />
+<img width="1351" height="477" alt="image" src="https://github.com/user-attachments/assets/8b3aa416-bf58-43be-ad68-1552254f40ce" />
 
 **Результат работы**
 - Модель построена на основе ResNet50, а в качестве метрики использовалась MAE.
