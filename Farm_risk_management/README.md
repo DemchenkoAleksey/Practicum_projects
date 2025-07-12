@@ -81,7 +81,8 @@ Conclusion (Вывод):
 ## Пример работы
 
 Получает датасет на вход:
-![image](https://github.com/user-attachments/assets/db915f90-03fa-429e-995d-63d66b9b5ca4)
+<img width="852" height="698" alt="image" src="https://github.com/user-attachments/assets/68470dca-3b06-45f1-9a79-e13577d9cb10" />
 
 Результат - добавляет в датасет предсказания кол-ва удоя в кг и вкус молока:
-![image](https://github.com/user-attachments/assets/ee668cab-7f63-4fea-bba8-637269307be7)
+<img width="1155" height="703" alt="image" src="https://github.com/user-attachments/assets/e45008b3-7b21-49c1-bc46-b25307d018f7" />
+
