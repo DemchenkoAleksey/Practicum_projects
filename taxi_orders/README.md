@@ -13,7 +13,7 @@
 Данные находятся в файле: `/datasets/taxi.csv`
 
 ## Пример датасета
-![image](https://github.com/user-attachments/assets/1fc6a672-ebf6-41a2-9d26-a51b2a939a94)
+<img width="336" height="215" alt="image" src="https://github.com/user-attachments/assets/09008457-14b2-4dc5-8963-2839d69b6dc3" />
 
 ## Результат
 
@@ -23,4 +23,5 @@
 
 ## Анализ признаков
 
-![image](https://github.com/user-attachments/assets/5c2db9dd-a9f2-4360-b4ee-bd8b3ff55c3b)
+<img width="1752" height="998" alt="image" src="https://github.com/user-attachments/assets/903b32ec-bfaa-42a1-8d79-6bc943312b2b" />
+
